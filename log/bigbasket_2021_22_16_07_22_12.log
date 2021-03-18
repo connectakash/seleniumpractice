@@ -1,0 +1,7 @@
+2021-03-16 19:22:20,012  INFO [main] RunnerTest:23 -Keys sent to search bar
+2021-03-16 19:22:22,723  INFO [main] RunnerTest:38 -Search icon clicked successfully
+2021-03-16 19:22:25,324  INFO [main] RunnerTest:23 -Keys sent to search bar
+2021-03-16 19:22:27,479  INFO [main] RunnerTest:38 -Search icon clicked successfully
+2021-03-16 19:22:31,997  INFO [main] RunnerTest:25 -Item selected
+2021-03-16 19:22:34,425  INFO [main] RunnerTest:21 -BestSellerItem selected
+2021-03-16 19:22:34,463  INFO [main] RunnerTest:43 -Add to cart button not clicked
